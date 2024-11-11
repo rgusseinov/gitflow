@@ -5,3 +5,11 @@
 // include src
 
 // include src/function
+
+// include cms.php
+
+// include /src/cms.js
+// add new feature in cms
+// add one more feature in CMS
+
+// include src/cms-main.js
