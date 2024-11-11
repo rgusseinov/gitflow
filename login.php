@@ -7,3 +7,5 @@
 // include src/function
 
 // include cms.php
+
+// include /src/cms.js
